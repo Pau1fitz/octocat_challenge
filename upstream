@@ -1,1 +1,1 @@
-what upstream remote is used for?
+an upstream remote is used to allow you to connect two repositories, and make changes from one which will be reflected in the other. A remote is simply a record in a local repository that is linked to another
